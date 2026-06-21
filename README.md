@@ -7,4 +7,4 @@ a Student with a strong passion about Linux, Automation, Embedded Systems, Cyber
 # Currently Learning
    [![Langs](https://skillicons.dev/icons?i=c,zig,rust)](https://skillicons.dev)
 # Tools && FOSS
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,neovim,obsidian,docker,arduino,stackoverflow,vercel,nginx,anaconda)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,neovim,obsidian,docker,arduino,stackoverflow,vercel,nginx,anaconda,cmake)](https://skillicons.dev)
