@@ -5,6 +5,6 @@ an IT Expirement with a strong passion about Linux, Embedded Systems, Cybersecur
 # Programming Languages
 [![Langs](https://skillicons.dev/icons?i=c,zig,python,rust,bash,ruby)](https://skillicons.dev)
 # Currently Learning
-   [![Langs](https://skillicons.dev/icons?i=c,zig,rust)](https://skillicons.dev)
+   [![Langs](https://skillicons.dev/icons?i=c,zig,rust,ruby)](https://skillicons.dev)
 # Tools && FOSS
 [![Tools](https://skillicons.dev/icons?i=linux,git,github,neovim,docker,arduino,stackoverflow,vercel,nginx,anaconda,cmake)](https://skillicons.dev)
